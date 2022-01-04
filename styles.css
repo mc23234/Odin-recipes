@@ -1,0 +1,40 @@
+body{
+	font-family:Arial,Helvetica;
+	margin:0;
+	padding:0;
+	background-image:linear-gradient(90deg,darkgreen,white);
+}
+
+.heading{
+	font-size:3rem;
+	font-weight:bolder;
+	color:white;
+	padding:2rem;
+	margin-bottom:0;
+	margin-top:0;
+}
+
+.image{
+	height:auto;
+	width:50vw;
+	margin-top:0;
+	padding:0;
+	margin-bottom:0;
+	float:right;
+}
+
+.content.heading{
+	font-size:2rem;
+	color:white;
+	
+}
+
+.content-list{
+	list-style-type:none;
+}
+
+.content-list a{
+	text-decoration:none;
+	color:wheat;
+	font-size:1.5rem;
+	}
